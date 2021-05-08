@@ -1,0 +1,17 @@
+h1
+{
+	
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image:url("Prop-Hunt.jpg") ;
+	background-position: center;
+	background-size: cover;
+}
+
+#canto{
+	border-width: 20px;
+	background-color: "white";
+	border-style: groove;
+
+}
